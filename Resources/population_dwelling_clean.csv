@@ -1,0 +1,1035 @@
+city,abbrev,area_type,pop,pop_density_sq_km,total_dwellings,land_area_sq_km
+Bay Roberts,NL,small,6897,408.5,3184,16.88
+Bishop's Falls,NL,small,3006,436.1,1498,6.89
+Bonavista,NL,small,2979,683.1,1628,4.36
+Botwood,NL,small,2741,494.4,1374,5.54
+Burgeo,NL,small,1176,566.5,659,2.08
+Carbonear,NL,small,6235,558.9,3118,11.16
+Channel-Port aux Basques,NL,small,3127,605.2,1644,5.17
+Clarenville-Shoal Harbour,NL,small,6143,493.0,2854,12.46
+Corner Brook,NL,small,19129,885.4,9451,21.6
+Deer Lake,NL,small,4346,529.8,2066,8.2
+Gander,NL,small,9918,727.2,4604,13.64
+Grand Bank,NL,small,2071,924.7,1136,2.24
+Grand Falls-Windsor,NL,small,11986,971.2,5816,12.34
+Happy Valley-Goose Bay,NL,small,6996,687.9,2936,10.17
+Labrador City,NL,small,9011,621.7,4075,14.5
+Lewisporte,NL,small,2064,884.0,1002,2.33
+Marystown,NL,small,2671,468.2,1355,5.71
+Massey Drive,NL,small,1606,655.1,670,2.45
+Pasadena,NL,small,2769,781.9,1268,3.54
+Placentia,NL,small,1338,510.0,761,2.62
+Sheshatshiu,NL,small,1049,653.5,331,1.61
+Springdale,NL,small,2182,579.6,1081,3.76
+St. Anthony,NL,small,1986,439.0,943,4.52
+St. John's,NL,large urban,185565,1042.5,86189,178.0
+Stephenville,NL,small,7344,474.5,3685,15.48
+Stephenville Crossing,NL,small,1038,742.6,517,1.4
+Wabana,NL,small,1091,432.0,700,2.53
+Charlottetown,PEI,medium,52390,910.2,24116,57.56
+Kensington,PEI,small,1743,635.5,865,2.74
+Montague,PEI,small,1896,916.9,931,2.07
+Summerside,PEI,small,14952,881.2,6924,16.97
+Amherst,NS,small,9548,771.5,4866,12.38
+Antigonish,NS,small,5620,955.7,3212,5.88
+Berwick,NS,small,2455,570.1,1087,4.31
+Bridgewater,NS,small,8790,644.9,4493,13.63
+Brookside,NS,small,1439,512.0,579,2.81
+Cape Breton - Sydney,NS,medium,30960,1001.5,15043,30.91
+Centreville,NS,small,1159,490.2,511,2.36
+Chester,NS,small,1371,424.5,840,3.23
+Digby,NS,small,2001,634.0,1133,3.16
+Enfield - Lantz,NS,small,6583,563.9,2806,11.67
+Eskasoni 3,NS,small,2575,451.7,812,5.7
+Glace Bay,NS,small,16915,542.4,8320,31.19
+Halifax,NS,large urban,348634,1463.1,162336,238.29
+Hantsport,NS,small,1542,532.8,735,2.89
+Hayes Subdivision,NS,small,1044,951.3,435,1.1
+Howie Centre,NS,small,1106,662.2,501,1.67
+Indian Brook 14,NS,small,2332,599.3,965,3.89
+Inverness,NS,small,1228,449.9,633,2.73
+Kentville,NS,small,14905,532.7,7015,27.98
+Kingston - Greenwood,NS,small,7118,413.4,3167,17.22
+Lake Echo,NS,small,2365,496.5,1031,4.76
+Liverpool,NS,small,2546,708.5,1339,3.59
+Lunenburg,NS,small,2405,717.7,1232,3.35
+Middleton,NS,small,1429,525.4,738,2.72
+New Glasgow,NS,small,19316,647.8,9537,29.82
+New Waterford,NS,small,6723,728.3,3414,9.23
+Pictou,NS,small,2643,608.0,1377,4.35
+Port Hawkesbury,NS,small,2998,599.7,1441,5.0
+Port Williams,NS,small,1030,537.7,450,1.92
+Shelburne,NS,small,1439,553.1,821,2.6
+Springhill,NS,small,2654,548.1,1361,4.84
+Still Water Lake,NS,small,3379,410.7,1153,8.23
+Sydney Mines,NS,small,12353,682.2,5940,18.11
+Truro,NS,small,23583,748.3,11368,31.52
+Windsor,NS,small,5514,522.0,2549,10.56
+Wolfville,NS,small,5057,783.3,2856,6.46
+Yarmouth,NS,small,7848,466.8,4004,16.81
+Bathurst,NB,small,15985,572.6,8360,27.92
+Bouctouche,NB,small,1944,402.6,936,4.83
+Campbellton,NB,small,8833,496.1,4474,17.8
+Caraquet,NB,small,3190,413.1,1579,7.72
+Chatham - Douglastown,NB,small,11594,417.4,5759,27.78
+Dalhousie,NB,small,2372,927.4,1276,2.56
+Edmundston,NB,small,13125,688.6,6629,19.06
+Fredericton,NB,medium,64614,721.1,30406,89.6
+Grand Falls / Grand-Sault,NB,small,4349,606.2,2262,7.17
+Hampton,NB,small,3499,452.8,1421,7.73
+McEwen,NB,small,1445,1742.0,746,0.83
+Moncton,NB,large urban,119785,1081.8,54519,110.73
+New Maryland,NB,small,2179,806.5,793,2.7
+Oromocto,NB,small,8585,858.3,3708,10.0
+Quispamsis - Rothesay,NB,small,24881,671.5,9753,37.05
+Richibucto 15,NB,small,1464,582.0,555,2.52
+Sackville,NB,small,3798,633.2,2085,6.0
+Saint Andrews,NB,small,1715,672.4,920,2.55
+Saint John,NB,medium,63447,905.8,31074,70.05
+Saint-Antoine,NB,small,1383,538.8,593,2.57
+Saint-Quentin,NB,small,2141,504.7,1015,4.24
+Salisbury,NB,small,1546,573.4,662,2.7
+Shediac,NB,small,8563,609.1,4579,14.06
+Shippagan,NB,small,2189,771.4,1043,2.84
+St. Leonard,NB,small,1043,519.1,506,2.01
+St. Stephen,NB,small,3389,948.3,1752,3.57
+Starlight Village,NB,small,2222,421.5,767,5.27
+Sussex,NB,small,5447,511.5,2706,10.65
+Tracadie-Sheila,NB,small,4528,467.8,2170,9.68
+Wells,NB,small,1263,438.9,467,2.88
+Woodstock,NB,small,4602,1023.1,2153,4.5
+Acton Vale,Que,small,5220,936.0,2466,5.58
+AlenÃ§on,Que,small,1585,532.3,755,2.98
+Alma,Que,small,20274,1272.2,9987,15.94
+Amos,Que,small,9281,1101.2,4794,8.43
+Amqui,Que,small,4560,698.0,2329,6.53
+Angers,Que,small,7259,1524.2,2844,4.76
+Asbestos,Que,small,5623,1087.3,2933,5.17
+Ayer's Cliff,Que,small,1087,467.8,568,2.32
+Baie-Comeau,Que,small,9100,806.5,4487,11.28
+Baie-Saint-Paul,Que,small,4308,1069.5,2171,4.03
+Barraute,Que,small,1090,823.6,542,1.32
+Beauceville,Que,small,3598,592.5,1743,6.07
+Beaumont,Que,small,1209,738.4,501,1.64
+BeauprÃ©,Que,small,6342,565.8,3560,11.21
+Bedford,Que,small,2548,660.2,1319,3.86
+Beloeil,Que,medium,52959,1998.5,22212,26.5
+Berthierville,Que,small,4677,916.1,2307,5.11
+Betsiamites,Que,small,2104,1183.6,732,1.78
+Black Lake,Que,small,3266,1400.5,1653,2.33
+Bonaventure,Que,small,1447,507.9,741,2.85
+Bromont,Que,small,5345,674.9,3090,7.92
+Bromptonville,Que,small,3862,581.7,1615,6.64
+Brownsburg,Que,small,1315,1308.7,682,1.0
+Buckingham,Que,small,17407,881.7,8012,19.74
+Cabano,Que,small,2419,802.1,1244,3.02
+Cap-Saint-Ignace,Que,small,1160,469.8,518,2.47
+Cap-aux-Meules,Que,small,2516,407.9,1173,6.17
+Carleton,Que,small,1198,1166.6,611,1.03
+Causapscal,Que,small,1013,570.7,556,1.77
+Chandler,Que,small,2189,1136.4,1136,1.93
+Chapais,Que,small,1289,1247.7,625,1.03
+Chibougamau,Que,small,6491,1081.2,3200,6.0
+Chicoutimi - JonquiÃ¨re,Que,large urban,103934,1099.1,52088,94.56
+Chisasibi,Que,small,3565,657.2,969,5.42
+ChÃ¢teau-Richer,Que,small,2482,701.5,1123,3.54
+ChÃ¢teauguay,Que,medium,75891,1503.4,30928,50.48
+Clermont,Que,small,2693,723.3,1309,3.72
+Coaticook,Que,small,6333,728.3,3093,8.7
+Contrecoeur,Que,small,7768,1243.0,3446,6.25
+Cowansville,Que,small,13334,815.3,6684,16.35
+Crabtree,Que,small,2802,1387.2,1209,2.02
+Danville,Que,small,1652,706.7,854,2.34
+Daveluyville,Que,small,1345,531.9,670,2.53
+Disraeli,Que,small,2228,859.3,1266,2.59
+Dolbeau,Que,small,10849,1034.4,5346,10.49
+Domaine-C.-L.-C.,Que,small,1662,871.8,636,1.91
+Domaine-Ouellet,Que,small,3391,2910.2,1143,1.17
+Donnacona,Que,small,8952,915.1,4145,9.78
+Drummondville,Que,medium,72089,1378.3,34938,52.3
+DÃ©gelis,Que,small,1751,807.7,934,2.17
+East Angus,Que,small,3678,751.3,1640,4.9
+East Broughton,Que,small,1866,1184.9,880,1.57
+Farnham,Que,small,7869,1326.8,3758,5.93
+Ferme-Neuve,Que,small,1663,1037.4,851,1.6
+Fermont,Que,small,2151,1484.0,1459,1.45
+Filion,Que,small,3572,1024.1,1425,3.49
+Forestville,Que,small,2193,756.8,1209,2.9
+Fort-Coulonge,Que,small,2263,590.7,970,3.83
+Fossambault-sur-le-Lac,Que,small,3367,522.7,1666,6.44
+GaspÃ©,Que,small,2803,566.0,1377,4.95
+Gentilly,Que,small,1634,1018.3,901,1.6
+Godefroy,Que,small,1463,1855.4,633,0.79
+Granby,Que,medium,62624,1294.1,30176,48.39
+Grande-RiviÃ¨re,Que,small,1330,401.3,733,3.31
+Hauterive,Que,small,11147,1285.5,5441,8.67
+Havre-Saint-Pierre,Que,small,2890,1323.6,1364,2.18
+Hudson,Que,small,24245,699.3,8892,34.67
+Huntingdon,Que,small,2673,1063.8,1336,2.51
+Inukjuak,Que,small,1671,845.6,531,1.98
+Joliette,Que,medium,49246,1261.7,24181,39.03
+Kingsey Falls,Que,small,1419,512.4,596,2.77
+Kuujjuaq,Que,small,1958,797.1,910,2.46
+L'Ange-Gardien,Que,small,1720,1168.7,695,1.47
+L'Assomption,Que,small,16443,1413.7,6837,11.63
+L'Ãpiphanie,Que,small,7607,753.0,3152,10.1
+La Malbaie,Que,small,3534,890.2,1990,3.97
+La PocatiÃ¨re,Que,small,3921,751.0,2095,5.22
+La Sarre,Que,small,5629,954.8,2891,5.9
+La Tuque,Que,small,7464,1179.0,4041,6.33
+Labelle,Que,small,1244,448.3,637,2.77
+Lac-Alouette,Que,small,4687,691.5,2010,6.78
+Lac-Connelly,Que,small,1272,590.2,697,2.16
+Lac-Etchemin,Que,small,1769,1070.0,806,1.65
+Lac-Lapierre,Que,small,2533,972.8,1090,2.6
+Lac-MÃ©gantic,Que,small,5808,623.1,3144,9.32
+Lac-Simon,Que,small,1134,503.0,286,2.25
+Lachute,Que,small,11221,1169.8,5477,9.59
+Lacolle,Que,small,1729,506.9,798,3.41
+Laurentides,Que,small,15768,1234.1,6224,12.78
+Laurier-Station,Que,small,1856,624.1,875,2.97
+Lavaltrie,Que,small,11301,1607.7,4683,7.03
+Le Bic,Que,small,1132,919.8,513,1.23
+LeBlanc,Que,small,1186,700.9,481,1.69
+Lebel-sur-QuÃ©villon,Que,small,1931,828.5,1071,2.33
+Les Coteaux,Que,small,19582,1080.2,8213,18.13
+Les CÃ¨dres,Que,small,2214,1240.2,925,1.79
+Les Escoumins,Que,small,1274,792.4,652,1.61
+LiniÃ¨re,Que,small,1400,872.0,632,1.61
+Louiseville,Que,small,5577,1394.4,2983,4.0
+Luceville,Que,small,1118,842.1,519,1.33
+Macamic,Que,small,1352,676.0,625,2.0
+Magog,Que,small,22222,1135.6,11572,19.57
+Malartic,Que,small,2996,1778.7,1464,1.68
+Maliotenam,Que,small,1458,1829.6,486,0.8
+Manawan,Que,small,1597,1866.3,315,0.86
+Maniwaki,Que,small,4094,677.0,2302,6.05
+Maria,Que,small,1421,478.7,618,2.97
+Marieville,Que,small,10015,1485.7,4237,6.74
+MaskinongÃ©,Que,small,1409,655.9,659,2.15
+Matagami,Que,small,1340,776.5,695,1.73
+Matane,Que,small,10371,1020.7,5756,10.16
+Melocheville,Que,small,3039,1296.8,1391,2.34
+Mistissini,Que,small,3190,1047.0,938,3.05
+Mont-Joli,Que,small,5730,720.2,2826,7.96
+Mont-Laurier,Que,small,7634,733.8,4092,10.4
+Mont-Saint-GrÃ©goire,Que,small,1021,730.9,388,1.4
+Montagnac,Que,small,1041,401.1,456,2.6
+Montmagny,Que,small,8881,1318.7,4766,6.73
+Montreal,Que,large urban,3675219,2658.5,1667662,1382.47
+MÃ©tabetchouan,Que,small,2222,882.5,1016,2.52
+Napierville,Que,small,4740,817.3,2047,5.8
+Neuville,Que,small,2543,639.4,1125,3.98
+New Richmond,Que,small,1886,467.2,984,4.04
+Nicolet,Que,small,6083,1008.5,2704,6.03
+Normandin,Que,small,1880,975.1,918,1.93
+Notre-Dame-du-Bon-Conseil,Que,small,1149,828.2,492,1.39
+Notre-Dame-du-Lac,Que,small,1207,464.9,667,2.6
+Notre-Dame-du-Mont-Carmel,Que,small,1126,899.6,475,1.25
+Obedjiwan,Que,small,1259,1998.1,277,0.63
+Oka,Que,small,1299,1301.6,631,1.0
+Ormstown,Que,small,1785,866.5,832,2.06
+Papineauville,Que,small,1126,710.5,611,1.58
+Parc-Boutin,Que,small,1246,466.9,452,2.67
+Pierreville,Que,small,1863,638.8,1010,2.92
+Plessisville,Que,small,7028,1197.7,3720,5.87
+Pont-Rouge,Que,small,6579,986.3,2803,6.67
+Port-Alfred-Bagotville,Que,small,13350,1018.3,6518,13.11
+Port-Cartier,Que,small,5400,1105.8,2687,4.88
+Portneuf,Que,small,2107,676.9,1125,3.11
+Price,Que,small,1640,866.8,755,1.89
+Princeville,Que,small,4396,1106.9,2096,3.97
+Puvirnituq,Que,small,1456,1674.5,449,0.87
+Quebec,Que,large urban,733156,1655.5,365801,442.85
+Rawdon,Que,small,5680,739.7,2864,7.68
+Richmond,Que,small,3079,573.0,1634,5.37
+Rigaud,Que,small,3038,1221.1,1429,2.49
+Rimouski,Que,medium,38708,1392.7,20231,27.79
+RiviÃ¨re-Beaudette,Que,small,1854,534.4,812,3.47
+RiviÃ¨re-au-Renard,Que,small,1045,498.6,524,2.1
+RiviÃ¨re-du-Loup,Que,small,19081,945.8,9454,20.17
+Roberval,Que,small,8056,1503.4,3980,5.36
+Rougemont,Que,small,1668,500.4,723,3.33
+Rouyn-Noranda,Que,small,23186,1045.2,12414,22.18
+Roxton Falls,Que,small,1042,457.5,521,2.28
+Roxton Pond,Que,small,2701,823.0,1195,3.28
+Saint GrÃ©goire,Que,small,1651,1175.8,719,1.4
+Saint-Agapit,Que,small,3168,1404.1,1399,2.26
+Saint-Alexandre,Que,small,1466,758.7,552,1.93
+Saint-Alexandre,Que,small,1342,1038.9,503,1.29
+Saint-Alexis-des-Monts,Que,small,1503,446.2,868,3.37
+Saint-Amable,Que,small,11199,1417.8,4362,7.9
+Saint-Ambroise,Que,small,1651,1845.9,723,0.89
+Saint-Ambroise-de-Kildare,Que,small,1883,763.8,765,2.47
+Saint-AndrÃ©-Avellin,Que,small,1642,688.7,813,2.38
+Saint-Anselme,Que,small,2729,814.2,1219,3.35
+Saint-Apollinaire,Que,small,4933,1113.1,2095,4.43
+Saint-Augustin,Que,small,11769,1036.7,4655,11.35
+Saint-Basile-Sud,Que,small,1444,745.5,715,1.94
+Saint-Bernard,Que,small,1223,1394.8,505,0.88
+Saint-Boniface,Que,small,1365,560.8,596,2.43
+Saint-Bruno,Que,small,1868,1616.9,829,1.16
+Saint-Charles,Que,small,1357,983.4,602,1.38
+Saint-Chrysostome,Que,small,1171,814.2,550,1.44
+Saint-Cyrille-de-Wendover,Que,small,1315,1398.0,545,0.94
+Saint-CÃ©saire,Que,small,3869,1647.2,1769,2.35
+Saint-Damase,Que,small,1139,572.8,504,1.99
+Saint-Damien-de-Buckland,Que,small,1206,772.8,616,1.56
+Saint-Denis,Que,small,1048,978.1,500,1.07
+Saint-Donat-de-Montcalm,Que,small,1512,464.3,1057,3.26
+Saint-ElzÃ©ar,Que,small,1152,1753.4,476,0.66
+Saint-Fabien,Que,small,1067,698.1,526,1.53
+Saint-FÃ©licien,Que,small,6751,786.6,3419,8.58
+Saint-FÃ©lix-de-Valois,Que,small,3544,870.3,1629,4.07
+Saint-Gabriel,Que,small,3068,866.6,1653,3.54
+Saint-Georges,Que,small,27402,1011.3,13743,27.09
+Saint-Germain-de-Grantham,Que,small,3436,1291.7,1435,2.66
+Saint-GÃ©dÃ©on,Que,small,1439,595.4,673,2.42
+Saint-Henri-de-LÃ©vis,Que,small,1761,1861.5,794,0.95
+Saint-HonorÃ©,Que,small,2394,1200.7,975,1.99
+Saint-Hyacinthe,Que,medium,50616,1643.6,25081,30.8
+Saint-Jacques,Que,small,2647,800.0,1209,3.31
+Saint-Jean-Baptiste,Que,small,1822,511.0,776,3.57
+Saint-Jean-Port-Joli,Que,small,1381,806.4,706,1.71
+Saint-Jean-de-Matha,Que,small,1121,480.6,546,2.33
+Saint-Jean-sur-Richelieu,Que,medium,88083,1637.3,40351,53.8
+Saint-Joseph-de-Beauce,Que,small,3494,812.4,1629,4.3
+Saint-Joseph-de-Lanoraie,Que,small,2850,984.7,1242,2.89
+Saint-Jovite,Que,small,6206,544.0,3626,11.41
+Saint-JÃ©rÃ´me,Que,large urban,100859,1040.1,46659,96.97
+Saint-Liboire,Que,small,1844,856.2,682,2.15
+Saint-LÃ©onard-d'Aston,Que,small,1469,918.9,681,1.6
+Saint-Marc-des-CarriÃ¨res,Que,small,2005,768.6,963,2.61
+Saint-Martin,Que,small,1672,496.4,784,3.37
+Saint-Michel,Que,small,1745,1654.0,608,1.06
+Saint-Michel-de-Bellechasse,Que,small,1243,656.1,593,1.89
+Saint-Michel-des-Saints,Que,small,1106,627.1,579,1.76
+Saint-PacÃ´me,Que,small,1145,985.4,410,1.16
+Saint-Pascal,Que,small,2534,756.0,1162,3.35
+Saint-Pie,Que,small,3189,1281.5,1352,2.49
+Saint-Polycarpe,Que,small,1365,1595.9,578,0.86
+Saint-Prime,Que,small,1069,1022.4,486,1.05
+Saint-Prosper,Que,small,2006,897.6,940,2.23
+Saint-RaphaÃ«l,Que,small,1093,1013.4,508,1.08
+Saint-Raymond,Que,small,3057,699.2,1579,4.37
+Saint-Roch-de-Richelieu,Que,small,1031,690.0,463,1.49
+Saint-Roch-de-l'Achigan,Que,small,2136,1515.1,877,1.41
+Saint-RÃ©mi,Que,small,7025,1752.9,3065,4.01
+Saint-Sauveur-des-Monts,Que,small,8854,880.2,5635,10.06
+Saint-Sulpice,Que,small,1769,1515.3,760,1.17
+Saint-Thomas,Que,small,1589,975.3,691,1.63
+Saint-Tite,Que,small,2190,814.6,1315,2.69
+Saint-Ãphrem-de-Tring,Que,small,1373,692.5,636,1.98
+Saint-Ãtienne-des-GrÃ¨s,Que,small,1455,600.4,609,2.42
+Sainte-AdÃ¨le,Que,small,6019,661.7,3495,9.1
+Sainte-Agathe-des-Monts - Val-David,Que,small,12136,622.2,7091,19.51
+Sainte-Anne-des-Monts,Que,small,3370,524.2,1924,6.43
+Sainte-Anne-des-Plaines,Que,small,11269,2772.1,4560,4.07
+Sainte-Brigitte-de-Laval,Que,small,4872,802.7,1953,6.07
+Sainte-Catherine-de-la-Jacques-Cartier,Que,small,1757,2129.7,661,0.83
+Sainte-Claire,Que,small,2226,1238.7,1064,1.8
+Sainte-Croix,Que,small,1424,620.9,715,2.29
+Sainte-Julienne,Que,small,3469,534.2,1698,6.49
+Sainte-Justine,Que,small,1079,915.7,483,1.18
+Sainte-Madeleine,Que,small,1989,834.0,886,2.38
+Sainte-Marie,Que,small,10716,1006.1,4614,10.65
+Sainte-Martine,Que,small,4412,1266.0,1928,3.48
+Sainte-ThÃ¨cle,Que,small,1302,569.3,685,2.29
+Salaberry-de-Valleyfield,Que,medium,41655,1227.6,20450,33.93
+Salluit,Que,small,1107,1449.3,327,0.76
+Scott,Que,small,1433,543.7,614,2.64
+Senneterre,Que,small,2212,721.0,1211,3.07
+Sept-Ãles,Que,small,21352,1612.0,10818,13.25
+Shannon,Que,small,3131,792.0,1293,3.95
+Shawinigan,Que,medium,38930,1225.4,21798,31.77
+Shawville,Que,small,1329,703.4,624,1.89
+Sherbrooke,Que,large urban,151157,1473.1,77092,102.61
+Sorel,Que,medium,36650,1197.5,18639,30.61
+Stanstead,Que,small,1483,630.7,727,2.35
+Stoneham,Que,small,1905,710.4,719,2.68
+Terrasse-des-Pins,Que,small,4395,673.1,1839,6.53
+Thetford Mines,Que,small,17046,1129.2,8606,15.1
+Thurso,Que,small,2833,924.2,1397,3.07
+Trois-Pistoles,Que,small,3031,746.5,1639,4.06
+Trois-Rivieres,Que,large urban,128057,1299.0,65496,98.58
+TÃ©miscaming,Que,small,1308,1055.1,719,1.24
+Val-Maher,Que,small,1674,562.2,636,2.98
+Val-d'Or,Que,small,25473,1011.9,12673,25.17
+Valcourt,Que,small,1805,608.3,923,2.97
+VallÃ©e-Jonction,Que,small,1213,1141.2,562,1.06
+Varennes,Que,small,20591,1987.5,8275,10.36
+Venise-en-QuÃ©bec,Que,small,1069,748.5,668,1.43
+VerchÃ¨res,Que,small,4359,1457.8,1875,2.99
+Victoriaville,Que,medium,46322,1313.5,22430,35.27
+Ville Lambert,Que,small,2544,951.8,1086,2.67
+Ville-Marie,Que,small,2017,1096.9,1060,1.84
+Warwick,Que,small,3239,832.3,1519,3.89
+Waskaganish,Que,small,1807,2227.0,437,0.81
+Waterloo,Que,small,4727,611.1,2322,7.74
+Wemindji,Que,small,1324,1861.4,422,0.71
+Whapmagoostui - Kuujjuarapik,Que,small,1411,1559.8,359,0.9
+Windsor,Que,small,4981,1012.4,2298,4.92
+Yamachiche,Que,small,1222,661.4,536,1.85
+Ãvain,Que,small,2329,1181.0,913,1.97
+Acton,Ont,small,9377,1196.4,3585,7.84
+Alexandria,Ont,small,2906,1404.6,1478,2.07
+Alfred,Ont,small,1086,1254.9,516,0.87
+Alliston,Ont,small,23253,1238.3,8968,18.78
+Almonte,Ont,small,6098,1466.6,2810,4.16
+Amherstburg,Ont,small,15177,1107.9,6210,13.7
+Amigo Beach,Ont,small,1924,747.7,822,2.57
+Angus - Borden CFB-BFC,Ont,small,14503,1022.0,5158,14.19
+Arnprior,Ont,small,11305,935.1,5149,12.09
+Arthur,Ont,small,2628,619.4,1043,4.24
+Atikokan,Ont,small,1929,815.1,1043,2.37
+Attawapiskat 91A,Ont,small,1586,1189.4,404,1.33
+Aylmer,Ont,small,7975,1107.8,3243,7.2
+Ayr,Ont,small,5383,934.4,1871,5.76
+Azilda,Ont,small,4793,976.6,2087,4.91
+Ballantrae,Ont,small,3224,456.4,1494,7.06
+Barrie,Ont,large urban,154676,1622.5,59529,95.33
+Barry's Bay,Ont,small,1084,481.3,586,2.25
+Bath,Ont,small,1825,471.1,851,3.87
+Bayfield,Ont,small,1394,487.4,1066,2.86
+Beamsville,Ont,small,13323,1347.8,4970,9.89
+Beaverton,Ont,small,3347,696.3,1456,4.81
+Beeton,Ont,small,4151,1659.1,1533,2.5
+Belleville,Ont,medium,75052,838.7,33827,89.48
+Belmont,Ont,small,1275,1284.6,500,0.99
+Big Bay Point,Ont,small,1670,636.0,1365,2.63
+Binbrook,Ont,small,10791,1684.5,3549,6.41
+Blenheim,Ont,small,4487,974.5,2110,4.6
+Blind River,Ont,small,2174,569.7,1142,3.82
+Bobcaygeon,Ont,small,3576,694.4,1895,5.15
+Bolton,Ont,small,26795,1294.0,9158,20.71
+Bourget,Ont,small,1175,527.8,462,2.23
+Bowmanville - Newcastle,Ont,medium,56742,1816.8,21017,31.23
+Bracebridge,Ont,small,9884,738.5,4470,13.38
+Bradford,Ont,medium,38128,2368.2,12210,16.1
+Brantford,Ont,large urban,104413,1680.6,43130,62.13
+Bridgenorth - Chemong Park Area,Ont,small,3072,439.9,1321,6.98
+Brighton,Ont,small,5847,833.2,2836,7.02
+Brockville,Ont,small,22293,1192.3,11163,18.7
+Burford,Ont,small,1058,525.3,449,2.01
+Caledon,Ont,small,1466,515.5,508,2.84
+Caledon East,Ont,small,4568,709.9,1458,6.44
+Caledonia,Ont,small,12179,1326.7,4434,9.18
+Campbellford,Ont,small,3372,906.8,1608,3.72
+Cannington,Ont,small,1839,1018.0,757,1.81
+Capreol,Ont,small,2919,1294.2,1285,2.26
+Cardinal,Ont,small,1770,724.9,863,2.44
+Carleton Place,Ont,small,13940,1081.7,5876,12.89
+Carlisle,Ont,small,1858,725.4,636,2.56
+Carp,Ont,small,1477,721.6,558,2.05
+Casselman,Ont,small,3970,770.0,1635,5.16
+Cayuga,Ont,small,1720,806.6,727,2.13
+Chalk River,Ont,small,1061,552.9,453,1.92
+Chapleau,Ont,small,1144,1929.5,612,0.59
+Chatham,Ont,medium,45171,1447.4,20559,31.21
+Chelmsford,Ont,small,6199,1126.9,2826,5.5
+Chesley,Ont,small,1879,982.9,866,1.91
+Chesterville,Ont,small,1564,839.9,651,1.86
+Chippawa,Ont,small,6077,1633.8,2519,3.72
+Claremont,Ont,small,1215,573.6,413,2.12
+Clinton,Ont,small,3113,1075.3,1452,2.89
+Cobourg,Ont,small,19830,1273.2,9213,15.57
+Cochrane,Ont,small,3774,1031.7,1748,3.66
+Colborne,Ont,small,1474,847.6,696,1.74
+Colchester,Ont,small,2334,763.9,1231,3.06
+Collingwood,Ont,small,22983,1403.1,12133,16.38
+Coniston,Ont,small,1782,793.4,778,2.25
+Constance Bay,Ont,small,2263,407.0,1107,5.56
+Cookstown,Ont,small,1647,1440.6,557,1.14
+Cornwall,Ont,medium,47286,1459.6,21999,32.4
+Corunna,Ont,small,6266,1654.5,2530,3.79
+Craigleith and Swiss Meadows,Ont,small,1259,409.0,1182,3.08
+Creemore,Ont,small,1194,750.8,508,1.59
+Crystal Beach,Ont,small,9531,840.5,5229,11.34
+Deep River,Ont,small,3860,896.2,1852,4.31
+Delhi,Ont,small,5344,1394.2,2357,3.83
+Deseronto,Ont,small,1598,1258.9,732,1.27
+Dorchester,Ont,small,4355,749.1,1670,5.81
+Dowling,Ont,small,1449,1073.9,575,1.35
+Drayton,Ont,small,2279,813.9,803,2.8
+Dresden,Ont,small,2401,863.3,1070,2.78
+Dryden,Ont,small,5355,820.4,2647,6.53
+Dundalk,Ont,small,2803,1161.8,1055,2.41
+Dunnville,Ont,small,5907,1086.8,2735,5.44
+Durham,Ont,small,2755,849.6,1245,3.24
+Dutton,Ont,small,1658,830.5,687,2.0
+Eganville,Ont,small,1149,508.2,570,2.26
+Elliot Lake,Ont,small,10998,1071.4,5993,10.27
+Elmira,Ont,small,10790,1323.3,4173,8.15
+Elmvale,Ont,small,2520,1275.1,1064,1.98
+Embrun,Ont,small,8680,852.3,3278,10.18
+Englehart,Ont,small,1371,1047.1,684,1.31
+Erin,Ont,small,2725,664.9,1035,4.1
+Espanola,Ont,small,3986,1030.5,1881,3.87
+Essex,Ont,small,8233,1481.1,3411,5.56
+Everett,Ont,small,1570,992.0,553,1.58
+Exeter,Ont,small,4863,1107.2,2200,4.39
+Factory Island,Ont,small,1530,1065.5,605,1.44
+Fenelon Falls,Ont,small,2490,625.7,1466,3.98
+Fergus,Ont,small,23209,1267.6,9403,18.31
+Forest,Ont,small,2429,1042.8,1128,2.33
+Fort Erie,Ont,small,15372,1051.8,6856,14.62
+Fort Frances,Ont,small,7159,982.2,3631,7.29
+Frankford,Ont,small,3079,1056.9,1308,2.91
+Gananoque,Ont,small,5383,768.4,2767,7.01
+Georgetown,Ont,medium,44058,1714.0,15501,25.7
+Geraldton,Ont,small,1761,666.8,889,2.64
+Glencoe,Ont,small,2158,810.0,992,2.66
+Goderich,Ont,small,7728,1712.3,3811,4.51
+Golden,Ont,small,1143,1229.7,509,0.93
+Grand Bend,Ont,small,3031,474.3,2498,6.39
+Grand Valley,Ont,small,2720,945.9,1021,2.88
+Gravenhurst,Ont,small,5789,916.1,2732,6.32
+Guelph,Ont,large urban,144356,1814.3,59899,79.57
+Hagersville,Ont,small,3059,971.5,1326,3.15
+Haileybury,Ont,small,3247,1080.6,1558,3.0
+Haliburton Village,Ont,small,1078,491.1,557,2.2
+Hamilton,Ont,large urban,729560,2049.2,300424,356.03
+Hanover,Ont,small,7761,1086.6,3690,7.14
+Harriston,Ont,small,1887,1446.1,732,1.3
+Harrow,Ont,small,2562,897.1,1039,2.86
+Hastings,Ont,small,1388,644.5,714,2.15
+Havelock,Ont,small,1055,915.5,486,1.15
+Hawkesbury,Ont / Que,small,11755,1086.4,6139,10.82
+Hawkesbury (Ontario part),Ont,small,9975,1195.6,5208,8.34
+Hawkesbury (Quebec part),Que,small,1780,718.8,931,2.48
+Hearst,Ont,small,3537,704.4,1775,5.02
+Hensall,Ont,small,1126,603.9,468,1.86
+Horseshoe Valley,Ont,small,1127,420.6,418,2.68
+Huntsville,Ont,small,6639,760.6,3206,8.73
+Ilderton,Ont,small,2250,1893.9,793,1.19
+Ingersoll,Ont,small,13607,1318.7,5594,10.32
+Ingleside,Ont,small,1487,846.0,670,1.76
+Innerkip,Ont,small,1342,914.2,491,1.47
+Innisfil,Ont,small,29464,1242.5,11265,23.71
+Iroquois,Ont,small,1406,698.6,663,2.01
+Iroquois Falls,Ont,small,2866,1834.5,1422,1.56
+Jarvis,Ont,small,1214,2159.8,439,0.56
+Kanata,Ont,large urban,137118,2199.2,49662,62.35
+Kapuskasing,Ont,small,7092,822.1,3723,8.63
+Kasabonika Lake,Ont,small,1060,934.3,252,1.13
+Kemptville,Ont,small,4051,1085.9,1851,3.73
+Kenora,Ont,small,10974,719.6,5534,15.25
+Keswick - Elmhurst Beach,Ont,small,27145,1639.2,10284,16.56
+Kincardine,Ont,small,9343,973.9,4574,9.59
+King,Ont,small,8396,591.1,2730,14.2
+Kingston,Ont,large urban,127943,1533.6,61662,83.43
+Kirkland Lake,Ont,small,6180,1480.7,3581,4.17
+Kitchener,Ont,large urban,522888,1763.8,210386,296.45
+L'Orignal,Ont,small,1359,467.6,636,2.91
+Lakefield,Ont,small,2943,1093.7,1371,2.69
+Leamington,Ont,medium,35730,1124.7,14121,31.77
+Limoges,Ont,small,2213,1807.3,805,1.22
+Lindsay,Ont,small,22367,1436.7,10300,15.57
+Listowel,Ont,small,9539,1417.0,4023,6.73
+Little Current,Ont,small,1210,542.6,728,2.23
+Lively,Ont,small,5569,477.2,2261,11.67
+London,Ont,large urban,423369,1728.3,186675,244.97
+Long Sault,Ont,small,2154,917.1,896,2.35
+Longlac,Ont,small,1316,756.7,650,1.74
+Lucan,Ont,small,3089,1534.7,1215,2.01
+Lucknow,Ont,small,1154,683.2,506,1.69
+Madoc,Ont,small,1489,680.2,744,2.19
+Manitouwadge,Ont,small,1682,715.5,924,2.35
+Manotick Station,Ont,small,5873,646.0,2028,9.09
+Marathon,Ont,small,3022,698.4,1527,4.33
+Marchmont - Bass Lake,Ont,small,1902,464.9,744,4.09
+Markdale,Ont,small,1206,524.8,598,2.3
+Marmora,Ont,small,1499,697.2,729,2.15
+Mattawa,Ont,small,1721,809.6,825,2.13
+McGregor,Ont,small,1536,462.5,620,3.32
+Meaford,Ont,small,5078,861.0,2651,5.9
+Merrickville,Ont,small,1036,516.9,498,2.0
+Metcalfe,Ont,small,1811,826.7,673,2.19
+Midland,Ont,small,26246,957.5,11874,27.41
+Mildmay,Ont,small,1222,765.2,536,1.6
+Millbrook,Ont,small,1739,840.8,654,2.07
+Milton,Ont,large urban,124579,2755.9,37981,45.2
+Milverton,Ont,small,1797,1356.0,711,1.33
+Mississauga Beach,Ont,small,5293,910.4,2822,5.81
+Mitchell,Ont,small,4868,958.6,1996,5.08
+Moosonee,Ont,small,1471,898.8,612,1.64
+Morrisburg,Ont,small,2398,1759.5,1065,1.36
+Mount Albert,Ont,small,5695,1218.4,1968,4.67
+Mount Brydges,Ont,small,2656,482.8,1001,5.5
+Mount Forest,Ont,small,5040,1352.9,2250,3.73
+Munster,Ont,small,1145,1707.7,429,0.67
+Napanee,Ont,small,8173,1032.3,3562,7.92
+New Dundee,Ont,small,1174,767.4,440,1.53
+New Hamburg,Ont,small,14379,913.0,5399,15.75
+New Liskeard,Ont,small,4232,602.9,2023,7.02
+Nobleton,Ont,small,6507,758.0,1919,8.58
+North Bay,Ont,medium,51433,792.4,24491,64.91
+Norwich,Ont,small,3038,1127.3,1195,2.69
+Norwood,Ont,small,1585,794.8,620,1.99
+Omemee,Ont,small,1060,499.8,451,2.12
+Orangeville,Ont,medium,34177,1728.9,12520,19.77
+Orillia,Ont,medium,33379,1471.7,15416,22.68
+Oro Station - Hawkestone,Ont,small,1806,813.3,806,2.22
+Orono,Ont,small,1104,814.2,437,1.36
+Osgoode,Ont,small,2535,852.2,949,2.97
+Oshawa,Ont,large urban,335949,2102.4,124322,159.79
+Ottawa,Ont / Que,large urban,1068821,1945.1,470979,549.49
+Ottawa - Gatineau (Ontario part),Ont,large urban,797252,2232.1,346772,357.18
+Ottawa - Gatineau (Quebec part),Que,large urban,271569,1412.1,124207,192.31
+Owen Sound,Ont,small,22318,1069.6,10647,20.86
+Paisley,Ont,small,1061,590.5,526,1.8
+Palgrave,Ont,small,1107,602.6,428,1.84
+Palmerston,Ont,small,2989,1177.3,1220,2.54
+Paris,Ont,small,14956,1103.6,5838,13.55
+Parkhill,Ont,small,1707,696.4,732,2.45
+Parry Sound,Ont,small,6788,853.4,3468,7.95
+Pembroke,Ont,small,16571,948.5,7848,17.47
+Perth,Ont,small,6486,690.4,3281,9.39
+Petawawa,Ont,small,14382,898.4,5593,16.01
+Peterborough,Ont,medium,84793,1553.7,38472,54.58
+Petrolia,Ont,small,5632,895.9,2372,6.29
+Picton,Ont,small,4508,830.4,2567,5.43
+Plattsville,Ont,small,1520,1106.4,546,1.37
+Porcupine,Ont,small,5832,1009.3,2620,5.78
+Port Colborne,Ont,small,15441,1161.6,7085,13.29
+Port Dover,Ont,small,7871,969.4,4028,8.12
+Port Elgin,Ont,small,9619,1197.7,4540,8.03
+Port Hope,Ont,small,13012,1023.1,5901,12.72
+Port Perry,Ont,small,9553,1090.2,3855,8.76
+Port Rowan,Ont,small,1357,428.3,739,3.17
+Port Stanley,Ont,small,3008,796.1,1702,3.78
+Powassan,Ont,small,1241,739.2,509,1.68
+Prescott,Ont,small,4078,1015.1,1992,4.02
+Red Lake,Ont,small,1263,819.2,610,1.54
+Renfrew,Ont,small,8337,686.6,4188,12.14
+Richmond,Ont,small,4228,1031.8,1586,4.1
+Ridgetown,Ont,small,2797,1026.1,1371,2.73
+Rockland,Ont,small,13625,1671.1,5477,8.15
+Rockwood,Ont,small,5488,926.5,2044,5.92
+Russell,Ont,small,6135,1344.5,2301,4.56
+Sandy Lake 88,Ont,small,1601,1184.4,426,1.35
+Sarnia,Ont,medium,73944,1221.5,34738,60.53
+Sault Ste. Marie,Ont,medium,64923,1225.8,31864,52.97
+Schomberg,Ont,small,2656,1111.8,1059,2.39
+Seaforth,Ont,small,2673,957.9,1248,2.79
+Shelburne,Ont,small,8989,1574.6,3147,5.71
+Simcoe,Ont,small,16121,977.0,7406,16.5
+Sioux Lookout,Ont,small,3781,598.2,1724,6.32
+Smiths Falls,Ont,small,9517,1418.9,4629,6.71
+Smithville,Ont,small,6456,1056.2,2378,6.11
+Southampton,Ont,small,3993,620.7,2588,6.43
+St. Catharines,Ont,large urban,242460,1724.5,106697,140.59
+St. Clements,Ont,small,1240,821.1,463,1.51
+St. George,Ont,small,3354,1130.8,1262,2.97
+St. Jacobs,Ont,small,1959,697.5,740,2.81
+St. Marys,Ont,small,7271,720.4,3158,10.09
+St. Thomas,Ont,medium,45732,1627.2,19671,28.1
+Stayner,Ont,small,4699,973.2,1864,4.83
+Stevensville,Ont,small,1316,522.3,546,2.52
+Stirling,Ont,small,2074,684.0,863,3.03
+Stoney Point,Ont,small,1394,567.6,622,2.46
+Stouffville,Ont,medium,36753,2593.6,12078,14.17
+Stratford,Ont,medium,32878,1411.2,15237,23.3
+Strathroy,Ont,small,16056,1049.6,6713,15.3
+Sturgeon Falls,Ont,small,6939,1128.7,3336,6.15
+Sudbury,Ont,medium,92093,1215.1,44970,75.79
+Sunderland,Ont,small,1490,1318.1,561,1.13
+Sutton,Ont,small,8477,675.6,3746,12.55
+Tavistock,Ont,small,3171,1200.8,1288,2.64
+Tay,Ont,small,6188,716.3,2767,8.64
+Thamesford,Ont,small,2622,949.6,953,2.76
+Thessalon,Ont,small,1147,611.0,546,1.88
+Thornbury,Ont,small,3474,592.2,2121,5.87
+Thornton,Ont,small,1046,946.5,363,1.11
+Thunder Bay,Ont,medium,95266,1253.0,45751,76.03
+Tilbury,Ont,small,4687,1131.1,1948,4.14
+Tillsonburg,Ont,small,18573,979.2,8479,18.97
+Timmins,Ont,small,28874,1561.3,13801,18.49
+Tiny Beaches North,Ont,small,1065,466.8,850,2.28
+Toronto,Ont,large urban,5647656,3087.7,2201935,1829.05
+Tottenham,Ont,small,9609,968.0,3334,9.93
+Tweed,Ont,small,1541,617.3,779,2.5
+Uxbridge,Ont,small,11794,762.7,4651,15.46
+Valley East,Ont,small,17251,668.1,6673,25.82
+Vankleek Hill,Ont,small,1781,797.9,896,2.23
+Vineland,Ont,small,4395,757.7,1857,5.8
+Virgil,Ont,small,3008,1245.8,1295,2.41
+Walkerton,Ont,small,4724,1210.8,2149,3.9
+Wallaceburg,Ont,small,10323,1167.4,4759,8.84
+Wasaga Beach,Ont,small,22194,786.8,12134,28.21
+Waterford,Ont,small,4227,1203.2,1823,3.51
+Watford,Ont,small,1563,1337.4,648,1.17
+Wawa,Ont,small,2431,1380.1,1207,1.76
+Welland - Pelham,Ont,medium,69302,1211.4,29874,57.21
+Wellesley,Ont,small,3536,2114.6,1222,1.67
+Wellington,Ont,small,1526,462.6,955,3.3
+Wendover,Ont,small,2176,608.0,879,3.58
+West Lorne,Ont,small,1385,763.3,624,1.81
+Wheatley,Ont,small,3060,898.8,1032,3.4
+Wiarton,Ont,small,1996,847.4,1058,2.36
+Wikwemikong,Ont,small,1417,411.6,556,3.44
+Winchester,Ont,small,2417,1068.3,1108,2.26
+Windsor,Ont,large urban,306519,1657.2,127879,184.96
+Wingham,Ont,small,2981,1206.5,1408,2.47
+Woodstock,Ont,medium,46296,1345.6,19384,34.41
+Wyoming,Ont,small,2348,511.8,971,4.59
+Altona,Man,small,4227,880.4,1759,4.8
+Arborg,Man,small,1279,639.6,528,2.0
+Beausejour,Man,small,3123,1003.1,1475,3.11
+Blumenort,Man,small,1738,548.2,578,3.17
+Boissevain,Man,small,1567,618.1,733,2.54
+Brandon,Man,medium,50532,1759.1,22320,28.73
+Carberry,Man,small,1823,759.9,850,2.4
+Carman,Man,small,2970,1042.1,1395,2.85
+Chemawawin 2,Man,small,1163,768.0,356,1.51
+Cross Lake 19,Man,small,1387,455.2,341,3.05
+Cross Lake 19A,Man,small,1826,553.9,435,3.3
+Dauphin,Man,small,8034,1010.4,3877,7.95
+Flin Flon,Man / Sask,small,4722,1262.5,2441,3.74
+Flin Flon (Manitoba part),Man,small,4640,1295.9,2383,3.58
+Flin Flon (Saskatchewan part),Sask,small,82,514.1,58,0.16
+Gimli,Man,small,2345,775.7,1508,3.02
+Grunthal,Man,small,1782,661.2,636,2.7
+Ile des ChÃªnes,Man,small,1572,858.1,647,1.83
+Killarney,Man,small,2499,724.4,1134,3.45
+La Broquerie,Man,small,1332,447.0,502,2.98
+La Salle,Man,small,2471,823.9,784,3.0
+Lac du Bonnet,Man,small,1064,470.7,549,2.26
+Landmark,Man,small,1284,579.1,458,2.22
+Lorette,Man,small,3230,1027.0,1167,3.15
+Minnedosa,Man,small,2407,1079.8,1137,2.23
+Mitchell,Man,small,3136,768.7,965,4.08
+Morden,Man,small,9103,1066.9,3871,8.53
+Morris,Man,small,1801,797.4,786,2.26
+Neepawa,Man,small,4938,2094.9,1681,2.36
+Nelson House 170,Man,small,1351,500.4,273,2.7
+Niverville,Man,small,5593,1323.0,1866,4.23
+Oak Bluff,Man,small,1442,572.3,481,2.52
+Oakbank,Man,small,5041,935.4,1760,5.39
+Pinawa,Man,small,1512,707.0,755,2.14
+Portage la Prairie,Man,small,12944,1303.9,5980,9.93
+Roblin,Man,small,1603,590.6,855,2.71
+Russell,Man,small,1622,853.1,760,1.9
+Selkirk,Man,small,9761,1646.4,4383,5.93
+Shilo CFB-BFC,Man,small,1362,1090.7,640,1.25
+Souris,Man,small,1935,772.6,938,2.5
+St-Pierre-Jolys,Man,small,1305,500.5,518,2.61
+St. Adolphe,Man,small,1595,915.8,582,1.74
+St. Andrews,Man,small,1001,430.1,387,2.33
+St. Theresa Point,Man,small,1083,705.8,206,1.53
+Ste. Anne,Man,small,2891,699.0,1204,4.14
+Steinbach,Man,small,17589,988.0,7004,17.8
+Stonewall,Man,small,5046,846.4,2127,5.96
+Stony Mountain,Man,small,2160,1086.5,507,1.99
+Swan River,Man,small,3989,696.1,1994,5.73
+Teulon,Man,small,1087,580.9,543,1.87
+The Pas,Man,small,7302,869.4,2784,8.4
+Thompson,Man,small,12329,1578.9,5222,7.81
+Virden,Man,small,2904,1245.5,1413,2.33
+Wasagamack,Man,small,1689,461.0,341,3.66
+Winkler,Man,small,15335,806.4,5659,19.02
+Winnipeg,Man,large urban,758515,2124.7,318706,356.99
+Assiniboia,Sask,small,2333,978.0,1235,2.39
+Balgonie,Sask,small,1736,1298.7,619,1.34
+Battleford,Sask,small,3651,1705.8,1619,2.14
+Biggar,Sask,small,2045,1354.3,996,1.51
+Birch Hills,Sask,small,1066,446.6,475,2.39
+Canora,Sask,small,1763,1059.7,948,1.66
+Carlyle,Sask,small,1519,703.5,682,2.16
+Carnduff,Sask,small,1125,1161.4,520,0.97
+Caronport,Sask,small,1008,1014.4,368,0.99
+Dalmeny,Sask,small,1703,1137.8,606,1.5
+Davidson,Sask,small,1039,576.7,517,1.8
+Delisle,Sask,small,1024,949.6,460,1.08
+Esterhazy,Sask,small,2191,888.0,1288,2.47
+Estevan,Sask,small,10629,1127.6,5258,9.43
+Foam Lake,Sask,small,1070,761.1,525,1.41
+Fort Qu'Appelle,Sask,small,1866,892.4,881,2.09
+Hudson Bay,Sask,small,1332,1025.5,748,1.3
+Humboldt,Sask,small,5313,1525.9,2374,3.48
+Indian Head,Sask,small,1819,1054.3,862,1.73
+Kamsack,Sask,small,1659,1034.9,841,1.6
+Kindersley,Sask,small,2938,1643.8,1501,1.79
+La Loche,Sask,small,2009,1292.1,604,1.55
+La Ronge,Sask,small,5317,606.8,1797,8.76
+Langham,Sask,small,1349,1530.5,525,0.88
+Lanigan,Sask,small,1277,696.7,587,1.83
+Lumsden,Sask,small,1800,440.6,732,4.09
+Macklin,Sask,small,1098,1435.9,485,0.76
+Maple Creek,Sask,small,2151,1372.4,1075,1.57
+Martensville,Sask,small,10499,1915.8,3789,5.48
+Meadow Lake,Sask,small,5141,1567.8,2042,3.28
+Melfort,Sask,small,5718,1319.1,2702,4.33
+Melville,Sask,small,4075,1434.5,2152,2.84
+Moose Jaw,Sask,medium,32813,1481.8,15814,22.14
+Moosomin,Sask,small,2478,1284.8,1159,1.93
+Nipawin,Sask,small,4147,1231.6,1880,3.37
+North Battleford,Sask,small,13649,1575.2,6273,8.67
+Osler,Sask,small,1251,771.7,429,1.62
+Outlook,Sask,small,2112,749.3,984,2.82
+Oxbow,Sask,small,1051,883.4,475,1.19
+Pelican Narrows,Sask,small,2133,781.9,432,2.73
+Pilot Butte,Sask,small,2364,858.7,883,2.75
+Prince Albert,Sask,medium,36768,1720.2,15188,21.37
+Regina,Sask,large urban,224996,2130.4,98426,105.61
+Regina Beach,Sask,small,1790,657.2,1272,2.72
+Rosetown,Sask,small,2384,1260.9,1171,1.89
+Rosthern,Sask,small,1475,877.1,628,1.68
+Sandy Bay - Wapaskokimaw 202,Sask,small,1104,412.0,288,2.68
+Saskatoon,Sask,large urban,264637,1965.6,115029,134.63
+Shaunavon,Sask,small,1769,1019.8,918,1.73
+Shellbrook,Sask,small,1330,944.3,626,1.41
+Stanley Mission 157,Sask,small,1987,739.7,559,2.69
+Swift Current,Sask,small,16304,1110.2,7682,14.69
+Tisdale,Sask,small,2878,1026.2,1569,2.8
+Unity,Sask,small,2406,992.3,1110,2.42
+Wadena,Sask,small,1127,763.7,598,1.48
+Waldheim,Sask,small,1113,1127.5,405,0.99
+Warman,Sask,small,12362,1616.0,4292,7.65
+Watrous,Sask,small,1817,927.7,898,1.96
+Weyburn,Sask,small,10883,1279.0,5085,8.51
+White City,Sask,small,4713,745.3,1547,6.32
+Wilkie,Sask,small,1124,743.3,556,1.51
+Wynyard,Sask,small,1667,1005.3,888,1.66
+Yorkton,Sask,small,15969,1495.5,7398,10.68
+Airdrie,Alta,medium,73578,2227.3,26853,33.03
+Alberta Beach - Val Quentin,Alta,small,1103,651.2,1051,1.69
+Athabasca,Alta,small,1181,581.1,602,2.03
+Banff,Alta,small,8305,2033.8,3287,4.08
+Barrhead,Alta,small,4055,857.4,1874,4.73
+Bassano,Alta,small,1186,894.9,583,1.33
+Beaumont,Alta,small,20779,1998.2,7124,10.4
+Beaverlodge,Alta,small,2251,676.4,1010,3.33
+Black Diamond,Alta,small,2574,1199.0,1174,2.15
+Blackfalds,Alta,small,10315,1155.4,3895,8.93
+Blairmore,Alta,small,1522,747.7,896,2.04
+Bon Accord,Alta,small,1451,682.1,585,2.13
+Bonnyville,Alta,small,6359,994.0,2964,6.4
+Bow Island,Alta,small,1829,1402.4,655,1.3
+Bowden,Alta,small,1275,452.9,621,2.82
+Brooks,Alta,small,14904,1166.2,5483,12.78
+Calgary,Alta,large urban,1305550,2099.9,530846,621.72
+Calmar,Alta,small,1883,1418.3,803,1.33
+Camrose,Alta,small,18454,1079.3,8604,17.1
+Canmore,Alta,small,13268,1023.7,7199,12.96
+Cardiff,Alta,small,1033,1056.2,395,0.98
+Cardston,Alta,small,3519,907.3,1268,3.88
+Carriage Lane Estates,Alta,small,1094,814.7,336,1.34
+Carstairs,Alta,small,3660,769.6,1405,4.76
+Chestermere,Alta,small,21425,2382.5,6654,8.99
+Clairmont,Alta,small,2808,675.1,1133,4.16
+Claresholm,Alta,small,3434,1279.6,1641,2.68
+Coaldale,Alta,small,8592,1470.9,3272,5.84
+Coalhurst,Alta,small,2818,1598.6,1038,1.76
+Cochrane,Alta,medium,31638,1334.6,12341,23.71
+Cold Lake,Alta,small,7201,1262.1,3022,5.71
+Coleman,Alta,small,1441,722.8,907,1.99
+Crossfield,Alta,small,3579,895.9,1375,3.99
+Devon,Alta,small,6545,459.1,2588,14.26
+Didsbury,Alta,small,5024,925.0,2138,5.43
+Drayton Valley,Alta,small,6970,965.6,3105,7.22
+Drumheller,Alta,small,6497,685.2,3096,9.48
+Edmonton,Alta,large urban,1151635,1836.2,484165,627.2
+Edson,Alta,small,8166,762.9,3684,10.7
+Elk Point,Alta,small,1394,617.0,677,2.26
+Fairview,Alta,small,2427,1072.3,1183,2.26
+Fort Macleod,Alta,small,3038,1330.4,1356,2.28
+Fort McMurray,Alta,medium,68002,1303.5,28670,52.17
+Fort Saskatchewan,Alta,small,26831,1228.1,10779,21.85
+Fox Creek,Alta,small,1426,1048.2,834,1.36
+Gibbons,Alta,small,2989,625.8,1187,4.78
+Grand Centre,Alta,small,7514,415.8,3390,18.07
+Grande Cache,Alta,small,3037,815.4,1370,3.72
+Grande Prairie,Alta,medium,63172,1270.2,27098,49.74
+Grimshaw,Alta,small,2519,609.7,1185,4.13
+Hanna,Alta,small,2234,975.4,1187,2.29
+Heritage Pointe,Alta,small,1974,412.7,726,4.78
+High Level,Alta,small,3461,1289.3,1271,2.68
+High Prairie,Alta,small,2065,872.7,969,2.37
+High River,Alta,small,14119,1394.0,5854,10.13
+Hinton,Alta,small,9191,708.4,4140,12.97
+Innisfail,Alta,small,7016,1342.1,3271,5.23
+Irricana,Alta,small,1135,996.7,456,1.14
+Jasper,Alta,small,4029,2189.0,1776,1.84
+La CrÃ¨te,Alta,small,2911,963.3,1125,3.02
+Lac la Biche,Alta,small,2138,726.2,991,2.94
+Lacombe,Alta,small,12835,1081.0,5203,11.87
+Lamont,Alta,small,1328,687.4,564,1.93
+Lancaster Park,Alta,small,1253,1366.9,469,0.92
+Langdon,Alta,small,5193,1203.4,1693,4.32
+Leduc,Alta,medium,33505,496.9,13207,67.43
+Legal,Alta,small,1164,649.6,459,1.79
+Lethbridge,Alta,medium,92563,1446.2,40434,64.0
+Lloydminster,Alta / Sask,medium,31582,1292.6,13530,24.43
+Lloydminster (Alberta part),Alta,medium,19739,1171.1,8529,16.85
+Lloydminster (Saskatchewan part),Sask,medium,11843,1562.6,5001,7.58
+Magrath,Alta,small,2308,853.6,770,2.7
+Manning,Alta,small,1027,748.1,503,1.37
+Mayerthorpe,Alta,small,1171,908.6,524,1.29
+Medicine Hat,Alta,medium,63382,1191.5,28666,53.2
+Millet,Alta,small,1847,846.7,814,2.18
+Morinville,Alta,small,10385,931.0,3981,11.15
+Nanton,Alta,small,1984,1272.8,915,1.56
+Nobleford,Alta,small,1438,1473.8,462,0.98
+Okotoks,Alta,medium,30214,1753.3,10666,17.23
+Olds,Alta,small,8983,944.6,3997,9.51
+Peace River,Alta,small,4264,843.4,2046,5.06
+Penhold,Alta,small,3359,2037.2,1353,1.65
+Picture Butte,Alta,small,1808,926.1,686,1.95
+Pincher Creek,Alta,small,3463,853.7,1607,4.06
+Ponoka,Alta,small,7032,1253.6,3193,5.61
+Provost,Alta,small,1834,876.5,824,2.09
+Raymond,Alta,small,3942,1005.9,1305,3.92
+Red Deer,Alta,medium,99846,1514.4,42979,65.93
+Redcliff,Alta,small,5385,728.3,2206,7.39
+Redwater,Alta,small,1802,897.4,845,2.01
+Rimbey,Alta,small,2258,621.8,1065,3.63
+Rocky Mountain House,Alta,small,6518,872.8,2972,7.47
+Sexsmith,Alta,small,2275,1244.1,862,1.83
+Slave Lake,Alta,small,6542,987.4,2575,6.63
+Springbrook,Alta,small,1534,701.8,604,2.19
+Spruce Grove,Alta,medium,39348,1322.4,15518,29.76
+St. Paul,Alta,small,5685,1130.5,2390,5.03
+Stettler,Alta,small,5595,749.9,2513,7.46
+Stirling,Alta,small,1134,558.1,368,2.03
+Stony Plain,Alta,small,17253,973.3,7136,17.73
+Strathmore,Alta,small,13851,1463.5,5585,9.46
+Sundre,Alta,small,1781,750.9,803,2.37
+Swan Hills,Alta,small,1191,497.8,700,2.39
+Sylvan Lake,Alta,small,16142,1539.3,7267,10.49
+Taber,Alta,small,8978,572.1,3521,15.69
+Three Hills,Alta,small,2902,924.4,1183,3.14
+Tofield,Alta,small,1811,1483.1,804,1.22
+Turner Valley,Alta,small,2409,730.0,1025,3.3
+Two Hills,Alta,small,1379,1099.9,510,1.25
+Valleyview,Alta,small,1280,824.6,599,1.55
+Vauxhall,Alta,small,1286,474.7,457,2.71
+Vegreville,Alta,small,5383,1065.6,2614,5.05
+Vermilion,Alta,small,3552,971.4,1731,3.66
+Vulcan,Alta,small,1558,913.9,755,1.7
+Wainwright,Alta,small,6461,1270.6,2848,5.08
+Wembley,Alta,small,1432,651.5,616,2.2
+Westlake,Alta,small,2040,624.7,654,3.27
+Westlock,Alta,small,4820,915.9,2333,5.26
+Wetaskiwin,Alta,small,12438,1026.9,5584,12.11
+Whitecourt,Alta,small,9195,899.3,4013,10.22
+Abbotsford,BC,large urban,132300,1858.3,49176,71.2
+Aldergrove,BC,small,13105,1864.4,4747,7.03
+Aldergrove East,BC,small,4496,1765.5,1314,2.55
+Armstrong,BC,small,5323,1020.0,2292,5.22
+Ashcroft,BC,small,1182,577.8,643,2.05
+Barriere,BC,small,1273,412.1,557,3.09
+Blind Bay,BC,small,2369,572.1,1117,4.14
+Burns Lake,BC,small,2117,679.1,864,3.12
+Campbell River,BC,medium,38108,1154.7,17246,33.0
+Castlegar,BC,small,10029,527.7,4442,19.01
+Chase,BC,small,2377,1018.8,1238,2.33
+Chemainus,BC,small,4033,693.0,2099,5.82
+Chilliwack,BC,medium,81622,1456.9,34302,56.02
+Cobble Hill,BC,small,3610,541.0,1692,6.67
+Courtenay,BC,medium,48917,864.6,22691,56.58
+Cowichan Bay,BC,small,2799,626.5,1227,4.47
+Cranbrook,BC,small,20008,1225.8,8831,16.32
+Creston,BC,small,5459,903.9,2741,6.04
+Crofton,BC,small,1446,524.0,633,2.76
+Cultus Lake,BC,small,1164,647.5,739,1.8
+Cumberland,BC,small,4190,1071.0,1809,3.91
+Dawson Creek,BC,small,11706,948.4,5817,12.34
+Duck Lake,BC,small,12725,510.5,5792,24.93
+Duncan,BC,small,24358,1070.8,11013,22.75
+Elkford,BC,small,1908,622.2,1142,3.07
+Enderby,BC,small,3028,710.4,1508,4.26
+Fairwinds,BC,small,1207,567.0,682,2.13
+Fernie,BC,small,5519,1228.4,2789,4.49
+Fort Nelson,BC,small,2611,519.9,1622,5.02
+Fort St. James,BC,small,1497,465.6,697,3.22
+Fort St. John,BC,small,21123,1419.0,9868,14.89
+Gibsons,BC,small,9603,680.4,4845,14.11
+Golden,BC,small,3640,594.8,1709,6.12
+Grand Forks,BC,small,4166,507.7,1985,8.21
+Harrison Hot Springs,BC,small,1552,1329.0,873,1.17
+Hope,BC,small,4434,809.3,2167,5.48
+Houston,BC,small,2085,708.1,1016,2.94
+Invermere,BC,small,3340,971.4,1880,3.44
+Kamloops,BC,medium,92442,1243.3,39771,74.35
+Kelowna,BC,large urban,181380,1073.7,83287,168.92
+Kent,BC,small,3936,978.0,1769,4.02
+Keremeos,BC,small,1791,629.5,938,2.84
+Kimberley,BC,small,4908,1087.6,2300,4.51
+Kitimat,BC,small,6727,1377.5,3763,4.88
+Ladner,BC,small,23016,3120.3,9286,7.38
+Ladysmith,BC,small,11194,808.2,5125,13.85
+Lake Cowichan,BC,small,3181,768.5,1506,4.14
+Lillooet,BC,small,1652,696.7,886,2.37
+Lions Bay,BC,small,1390,549.0,557,2.53
+Logan Lake,BC,small,1356,1441.5,726,0.94
+Lumby,BC,small,1484,1298.8,627,1.14
+Mackenzie,BC,small,2856,833.3,1634,3.43
+Merritt,BC,small,5248,1185.0,2435,4.43
+Mile 108 Recreational Ranch,BC,small,1043,402.9,491,2.59
+Miller's Landing,BC,small,1437,750.6,669,1.91
+Mission,BC,medium,36193,1328.9,12702,27.23
+Nakusp,BC,small,1112,846.0,606,1.31
+Nanaimo,BC,large urban,106079,1222.7,47554,86.76
+Naramata,BC,small,1012,423.0,505,2.39
+Nelson,BC,small,11198,1503.7,5358,7.45
+Okanagan Falls,BC,small,2202,660.5,1248,3.33
+Oliver,BC,small,5708,1007.1,2746,5.67
+One Hundred Mile House,BC,small,1706,710.2,864,2.4
+Osoyoos,BC,small,4859,1147.2,2919,4.24
+Parksville,BC,small,27330,995.7,13872,27.45
+Peachland,BC,small,5006,509.5,2572,9.83
+Pemberton,BC,small,2970,1051.8,1242,2.82
+Penticton,BC,medium,36893,1427.7,18426,25.84
+Port Alberni,BC,small,21711,762.0,10438,28.49
+Port Hardy,BC,small,3393,659.3,1662,5.15
+Port McNeill,BC,small,2234,898.6,1057,2.49
+Powell River,BC,small,13116,755.2,6342,17.37
+Prince George,BC,medium,67339,911.2,29851,73.9
+Prince Rupert,BC,small,11814,1482.3,5507,7.97
+Princeton,BC,small,2826,631.2,1489,4.48
+Puntledge,BC,small,1185,402.2,497,2.95
+Quesnel,BC,small,12110,480.0,5808,25.23
+Rayleigh,BC,small,1933,939.7,723,2.06
+Revelstoke,BC,small,7709,627.0,3414,12.3
+Roberts Creek,BC,small,1927,460.5,1007,4.18
+Rosedale,BC,small,2232,508.8,761,4.39
+Rossland,BC,small,3645,910.0,1715,4.01
+Salmo,BC,small,1140,466.4,599,2.44
+Salmon Arm,BC,small,16065,765.4,7020,20.99
+Sechelt,BC,small,9434,788.8,4884,11.96
+Shawnigan - Mill Bay,BC,small,7285,490.0,3065,14.87
+Sicamous,BC,small,2041,775.6,1539,2.63
+Smithers,BC,small,5316,508.0,2375,10.46
+Sooke,BC,small,11583,757.1,4940,15.3
+Sparwood,BC,small,3990,463.5,2101,8.61
+Squamish,BC,small,22221,1005.2,9288,22.11
+Summerland,BC,small,9860,623.0,4471,15.83
+Telkwa,BC,small,1288,450.0,500,2.86
+Terrace,BC,small,14633,659.5,6410,22.19
+Tofino,BC,small,2217,405.0,1075,5.47
+Trail - Fruitvale,BC,small,12863,594.1,6177,21.65
+Tsawwassen,BC,small,23940,1601.1,10465,14.95
+Tumbler Ridge,BC,small,2389,810.3,1547,2.95
+Ucluelet,BC,small,1940,670.1,937,2.9
+Vancouver,BC,large urban,2426160,2661.3,1015170,911.64
+Vanderhoof,BC,small,1967,691.3,896,2.85
+Vernon,BC,medium,51896,1014.3,23605,51.16
+Victoria,BC,large urban,363222,1630.9,172251,222.71
+Welcome Beach,BC,small,1116,793.0,524,1.41
+Whistler,BC,small,9974,849.5,7800,11.74
+White Rock,BC,large urban,109167,2013.1,46671,54.23
+Williams Lake,BC,small,11906,430.0,5466,27.69
+Yarrow,BC,small,1378,408.5,436,3.37
+Dawson,YT,small,1092,1036.2,597,1.05
+Whitehorse,YT,small,24513,681.5,10424,35.97
+Fort Smith,NWT,small,1749,855.8,778,2.04
+Hay River,NWT,small,2380,752.8,1172,3.16
+Inuvik,NWT,small,3001,1871.4,1381,1.6
+Yellowknife,NWT,small,19673,1086.3,7773,18.11
+Arviat,Nvt,small,2766,1143.6,668,2.42
+Baker Lake,Nvt,small,1653,1060.0,547,1.56
+Cambridge Bay,Nvt,small,1403,1652.9,521,0.85
+Gjoa Haven,Nvt,small,1110,1586.2,267,0.7
+Iqaluit,Nvt,small,6991,667.0,3093,10.48
+Rankin Inlet,Nvt,small,2698,942.6,929,2.86

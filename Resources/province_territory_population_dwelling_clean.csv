@@ -1,0 +1,15 @@
+city,abbrev,area_type,pop,pop_density_sq_km,total_dwellings,land_area_sq_km
+Canada 2,CAN,Country,36991981,4.2,16284235,8788702.8
+Newfoundland and Labrador,NL,Province,510550,1.4,269184,358170.37
+Prince Edward Island,PEI,Province,154331,27.2,74934,5681.18
+Nova Scotia,NS,Province,969383,18.4,476007,52824.71
+New Brunswick,NB,Province,775610,10.9,366146,71248.5
+Quebec 2,Que,Province,8501833,6.5,4050164,1298599.75
+Ontario 2,Ont,Province,14223942,15.9,5929250,892411.76
+Manitoba 2,Man,Province,1342153,2.5,571528,540310.19
+Saskatchewan 2,Sask,Province,1132505,2.0,513725,577060.4
+Alberta 2,Alta,Province,4262635,6.7,1772670,634658.27
+British Columbia 2,BC,Province,5000879,5.4,2211694,920686.55
+Yukon,YT,Territory,40232,0.1,19610,472345.44
+Northwest Territories,NWT,Territory,41070,0.0,17603,1127711.92
+Nunavut,Nvt,Territory,36858,0.0,11720,1836993.78
