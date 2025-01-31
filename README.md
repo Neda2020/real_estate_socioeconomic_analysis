@@ -1,5 +1,5 @@
-# real_estate_socioeconomic_analysis--Project1
-real_estate_socioeconomic_analysis- Group Project1
+# real_estate_socioeconomic_analysis
+real_estate_socioeconomic_analysis
 Real Estate Socioeconomic Analysis
 This project analyzes factors influencing real estate prices across Canadian regions. It identifies patterns and explores correlations between property features (e.g., bedrooms, bathrooms) and socioeconomic factors (e.g., population size, income), examining how these elements impact housing affordability and price variations.
 
